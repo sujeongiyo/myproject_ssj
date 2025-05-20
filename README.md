@@ -1,8 +1,6 @@
-# myproject_ssj
-
 # Main Title
 
-![메인 프로젝트 이미지](project1.png)
+[![메인 프로젝트 이미지](project1.png)](https://8e2e-211-245-48-71.ngrok-free.app/)
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
